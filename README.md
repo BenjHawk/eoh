@@ -4,4 +4,4 @@ It currently serves no purpose.
 
 Thanks for reading this.
 
-### No Panik
+### Don't Panik
